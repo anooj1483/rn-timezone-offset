@@ -8,6 +8,8 @@ Easy time manager (based on UTC offset) for different timezones in React Native 
 # Usage
 
 > npm -i rn-timezone-offset
+
 > let tZoner = require('rn-timezone-offset');
-console.log(tZoner.toLocalTZ("1971-07-05"));
+
+> console.log(tZoner.toLocalTZ("1971-07-05"));
 
