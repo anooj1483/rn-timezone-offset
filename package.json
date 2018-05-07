@@ -1,6 +1,6 @@
 {
   "name": "rn-timezone-offset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy time manager (based on UTC offset) for different timezones in React Native app.",
   "main": "lib/timezoneOffset.js",
   "scripts": {
