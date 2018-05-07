@@ -27,6 +27,8 @@
     "DatePicker",
     "DatePicker Android",
     "rn",
-    "rn-timezone fix"
+    "rn-timezone fix",
+    "RDS",
+    "UTC timezone"
   ]
 }

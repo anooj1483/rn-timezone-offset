@@ -18,3 +18,6 @@ This library takes help from great date and timezone management libraries, "Mome
  var tZoner = require('rn-timezone-offset');
  console.log(tZoner.toLocalTZ("1971-07-05"));
 ```
+The library was created as a fix for timezone issue where RDS was saving the date in
+UTC format and client DatePickers (iOS and Android) were setting the date
+one day prior to the normal date in certain timezones.
