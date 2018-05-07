@@ -6,10 +6,27 @@
   "scripts": {
     "start": "node lib/timezoneOffset.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anooj1483/rn-timezone-offset"
+  },
   "author": "Anooj Krishnan G <anooj1483@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.22.1",
     "moment-timezone": "^0.5.16"
-  }
+  },
+  "keywords": [
+    "react-native",
+    "timezone",
+    "react-native-timezone",
+    "rn-timezone-offset",
+    "timezone offset",
+    "offset",
+    "DatePickerIOS",
+    "DatePicker",
+    "DatePicker Android",
+    "rn",
+    "rn-timezone fix"
+  ]
 }
